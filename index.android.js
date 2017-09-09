@@ -4,3 +4,4 @@ this.a = function(){
 
   alert("bbb");
 }
+
